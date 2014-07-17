@@ -1,4 +1,6 @@
-Print3D
+86Duino Print3D
 =======
 
-Print3D firmware
+_VERSION_: 0.1
+
+86Duino 3D Printer Firmware 
